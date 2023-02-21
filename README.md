@@ -6,7 +6,7 @@ A python applicaton for spamming messages in Instagram
 * ## [Download and extract the .rar File](https://github.com/Syon-vt/Instagram-Spammer/blob/main/Instagram-Spammer.rar?raw=true)
 .exe file made with [Pyinstaller](https://pyinstaller.org/en/stable/index.html)
 
-* ## Run [main.py](https://raw.githubusercontent.com/Syon-vt/Instagram-Spammer/main/main.py?raw=true)
+* ## Run [main.py](https://raw.githubusercontent.com/Syon-vt/Instagram-Spammer/main/main.py?token=GHSAT0AAAAAAB6VY6X55HQAZQ6IQCZCKE4EY7UPS3Q)
     * ### Requirments: [Instagrapi](https://adw0rd.github.io/instagrapi/)
 
     * Edit the file and change the username and password fields
