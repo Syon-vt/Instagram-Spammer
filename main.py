@@ -3,7 +3,6 @@ from instagrapi import Client
 user = 'username'
 passwd = 'password'
 
-
 text = input("Enter Text: ")
 threadID = input("Enter thread ID: ")
 
@@ -22,9 +21,7 @@ except:
         input("")
         quit()
 
-
 thread = cl.direct_threads(1)[0]
-
 
 while True:
     if status >= 3:
